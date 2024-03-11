@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, rgb(10, 3, 18), rgb(57, 27, 5));
+    height: 100vh;
+    overflow: hidden;
+}
+
+.card.bg-dark {
+    border-radius: 1rem;
+    background-image: url('../img/bac1.png');
+    width: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+
+}
+
+.card-body {
+    border-radius: 1rem;
+    padding: 10rem;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sfclass{
+        color: aliceblue;
+        font-weight: bold;
+        font-size: 20px;
+}

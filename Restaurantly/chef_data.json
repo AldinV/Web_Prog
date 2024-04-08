@@ -1,0 +1,22 @@
+[
+{
+    "id": 1,
+    "name": "Walter White",
+    "specialty": "Master Chef"
+},
+{
+    "id": 2,
+    "name": "Sarah Jhonson",
+    "specialty": "Patissier"
+},
+{
+    "id": 3,
+    "name": "William Anderson",
+    "specialty": "Cook"
+},
+{
+    "id": 4,
+    "name": "Shahdahd",
+    "specialty": "Patissier"
+}
+]
